@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plik>
+<header>
+<informacje>Eksport automatyczny z serwera Agencja 3000</informacje>
+<agencja>Polska Giełda Nieruchomości</agencja>
+<data>2017-04-08 00:14:58</data>
+<wersja>0.4</wersja>
+<cel>oferty.net</cel>
+<zawartosc_pliku>roznica</zawartosc_pliku>
+</header>
+<lista_ofert>
+<dzial typ="sprzedaz" tab="mieszkania"/>
+<dzial typ="wynajem" tab="mieszkania"/>
+<dzial typ="sprzedaz" tab="domy"/>
+<dzial typ="wynajem" tab="domy"/>
+<dzial typ="sprzedaz" tab="dzialki">
+<oferta_usun>
+<id>459</id>
+</oferta_usun>
+</dzial>
+<dzial typ="wynajem" tab="dzialki"/>
+<dzial typ="sprzedaz" tab="lokale">
+<oferta>
+<id>460</id>
+<cena waluta="PLN">490000.00</cena>
+<param nazwa="internet" typ="bool"/>
+<param nazwa="powierzchnia" typ="real">190.0</param>
+<param nazwa="przeznaczenie" typ="text">Biurowy</param>
+<param nazwa="stannieruchomosci" typ="text">bardzo dobry</param>
+<param nazwa="ulica" typ="text"/>
+<param nazwa="typ_biura" typ="text">gabinet</param>
+<param nazwa="typlokalu" typ="text">Biurowy</param>
+<param nazwa="winda" typ="bool"/>
+<param nazwa="agent_email" typ="text">aga@kgn.pl</param>
+<param nazwa="agent_gg" typ="text"/>
+<param nazwa="agent_nazwisko" typ="text">Agnieszka Radomska</param>
+<param nazwa="agent_skype" typ="text"/>
+<param nazwa="agent_tel_biuro" typ="text"/>
+<param nazwa="agent_tel_kom" typ="text">666 039 371</param>
+<param nazwa="wylacznosc" typ="bool">true</param>
+<param nazwa="kraj" typ="text">Polska</param>
+<param nazwa="wojewodztwo" typ="text">Dolnośląskie</param>
+<param nazwa="miasto" typ="text">kłodzki</param>
+<param nazwa="dzielnica" typ="text">Kłodzko</param>
+<param nazwa="okolica" typ="text"/>
+<location>
+<area type="root" level="1">Polska</area>
+<area type="province" level="2">Dolnośląskie</area>
+<area type="district" level="3">kłodzki</area>
+<area type="commune" level="4">Kłodzko</area>
+</location>
+<param nazwa="przetarg" typ="bool">false</param>
+<param nazwa="termin_przetargu" typ="text"/>
+<param nazwa="vadium" typ="real"/>
+<param nazwa="dataaktualizacji" typ="text">2017-04-05 13:24:19</param>
+<param nazwa="bezprowizji" typ="bool">false</param>
+<param nazwa="forma_wlasnosci" typ="text">własność</param>
+<param nazwa="sprzedane" typ="bool">false</param>
+<param nazwa="advertisement_text" typ="text"/>
+<param nazwa="datawprowadzenia" typ="text">2016-08-08 12:03:39</param>
+<cenam2 waluta="PLN">2578.95</cenam2>
+<param nazwa="opis" typ="text">
+<linia>Kłodzko.  Lokal usługowy o pow. 190 m kw. w centrum miasta z dobrą lokalizacją na prowadzenie działalności usługowej o charakterze biurowym (kancelaria prawna, komornik, biuro podatkowe, ubezpieczenia, szkolenia  itp.) lub medycznym. Lokal na pierwszym piętrze w stylowej wyremontowanej  kamienicy wśród szkół, urzędów, banków, sklepów  i instytucji. Skład lokalu wchodzi:  6 gabinetów), 3 łazienki, poczekalnia, zaplecze socjalne z wyposażoną kuchnią. Powierzchnie gabinetów: 28m.kw., 27m.kw., 26m.kw., 20m.kw., 18m.kw., 13m.kw. plus kuchnia 6m.kw. Nieruchomość po generalnym remoncie: nowe okna, drzwi, instalacje, ściany pokryte farbą i tapetą, w 2 pomieszczeniach kafle, na podłogach wykładzina (wylewka, częściowo płyty), sufity podwieszane. Ogrzewanie indywidualne gazowe. Hydrant w budynku. Dobry rozkład: wszystkie pokoje rozmieszczone wzdłuż dwóch korytarzy, dobrze doświetlone dzięki dużym oknom. Wysokość pomieszczeń: ponad 3m. Oferty proszę składać na adres Kłodzko, ul. Boh. Getta 11 bezpośrednio lub pisemnie pocztą elektroniczna na adres kgn@kgn.pl . Zapraszamy na aukcję  internetowe.  www.kgn.pl  Oferta nie jest ofertą handlową w rozumieniu kodeksu cywilnego i innych przepisów prawa lecz ma charakter informacyjny.</linia>
+</param>
+</oferta>
+<oferta_usun>
+<id>393</id>
+</oferta_usun>
+</dzial>
+<dzial typ="wynajem" tab="lokale"/>
+<dzial typ="wynajem" tab="pokoje"/>
+</lista_ofert>
+<zdjecia>
+<zdjecie>
+<id>460</id>
+<typ>l</typ>
+<sprzedaz>1</sprzedaz>
+<kolejnosc>10</kolejnosc>
+<akcja>d</akcja>
+<nazwa>pgn_dompgn_ls_460_10.jpg</nazwa>
+<opis/>
+</zdjecie>
+<zdjecie>
+<id>460</id>
+<typ>l</typ>
+<sprzedaz>1</sprzedaz>
+<kolejnosc>20</kolejnosc>
+<akcja>d</akcja>
+<nazwa>pgn_dompgn_ls_460_20.jpg</nazwa>
+<opis/>
+</zdjecie>
+<zdjecie>
+<id>460</id>
+<typ>l</typ>
+<sprzedaz>1</sprzedaz>
+<kolejnosc>30</kolejnosc>
+<akcja>d</akcja>
+<nazwa>pgn_dompgn_ls_460_30.jpg</nazwa>
+<opis/>
+</zdjecie>
+<zdjecie>
+<id>460</id>
+<typ>l</typ>
+<sprzedaz>1</sprzedaz>
+<kolejnosc>40</kolejnosc>
+<akcja>d</akcja>
+<nazwa>pgn_dompgn_ls_460_40.jpg</nazwa>
+<opis/>
+</zdjecie>
+<zdjecie>
+<id>460</id>
+<typ>l</typ>
+<sprzedaz>1</sprzedaz>
+<kolejnosc>50</kolejnosc>
+<akcja>d</akcja>
+<nazwa>pgn_dompgn_ls_460_50.jpg</nazwa>
+<opis/>
+</zdjecie>
+<zdjecie>
+<id>460</id>
+<typ>l</typ>
+<sprzedaz>1</sprzedaz>
+<kolejnosc>60</kolejnosc>
+<akcja>d</akcja>
+<nazwa>pgn_dompgn_ls_460_60.jpg</nazwa>
+<opis/>
+</zdjecie>
+<zdjecie>
+<id>460</id>
+<typ>l</typ>
+<sprzedaz>1</sprzedaz>
+<kolejnosc>70</kolejnosc>
+<akcja>d</akcja>
+<nazwa>pgn_dompgn_ls_460_70.jpg</nazwa>
+<opis/>
+</zdjecie>
+<zdjecie>
+<id>460</id>
+<typ>l</typ>
+<sprzedaz>1</sprzedaz>
+<kolejnosc>80</kolejnosc>
+<akcja>d</akcja>
+<nazwa>pgn_dompgn_ls_460_80.jpg</nazwa>
+<opis/>
+</zdjecie>
+<zdjecie>
+<id>460</id>
+<typ>l</typ>
+<sprzedaz>1</sprzedaz>
+<kolejnosc>90</kolejnosc>
+<akcja>d</akcja>
+<nazwa>pgn_dompgn_ls_460_90.jpg</nazwa>
+<opis/>
+</zdjecie>
+<zdjecie>
+<id>460</id>
+<typ>l</typ>
+<sprzedaz>1</sprzedaz>
+<kolejnosc>100</kolejnosc>
+<akcja>d</akcja>
+<nazwa>pgn_dompgn_ls_460_100.jpg</nazwa>
+<opis/>
+</zdjecie>
+<zdjecie>
+<id>460</id>
+<typ>l</typ>
+<sprzedaz>1</sprzedaz>
+<kolejnosc>110</kolejnosc>
+<akcja>d</akcja>
+<nazwa>pgn_dompgn_ls_460_110.jpg</nazwa>
+<opis/>
+</zdjecie>
+</zdjecia>
+</plik>
